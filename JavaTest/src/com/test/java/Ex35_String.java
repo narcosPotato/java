@@ -1,4 +1,4 @@
-package com.test.java;
+﻿package com.test.java;
 
 public class Ex35_String {
 
@@ -10,7 +10,7 @@ public class Ex35_String {
 		
 			문자열
 			- 물리적으로는 참조형이지만, 약간의 값형의 성질을 가진다.
-			- 박쥐
+			- 박쥐박쥐
 			
 			1. 메모리의 공간은 한번 할당되면 더 이상 늘리거나 줄일 수 없다.
 			2. "문자열은 불변(Immutable)이다." > 한번 만들어진 문자열은 절대로 수정할수 없다. //면접 질문 2~30초 내외 답변 정리
